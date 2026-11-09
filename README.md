@@ -16,4 +16,4 @@
 - **Деплой:** GitHub Pages (Frontend), Railway (Backend)
 
 ## Скриншоты:
-![Витрина магазина](shop_screen.jpg)
+![Витрина магазина](Screenshot_2026-11-09-16-39-45-588_org.telegram.messenger.jpg)
